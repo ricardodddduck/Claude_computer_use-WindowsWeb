@@ -1,4 +1,4 @@
-# Claude_computer_use for WindowsWeb
+# Claude_computer_use for Windows
 The Windows version, compiled based on the Claude_computer_use_demo project, can be easily run on a local computer.
 
 # Prepare
